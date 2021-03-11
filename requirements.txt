@@ -1,0 +1,7 @@
+jupyter
+numpy
+matplotlib
+ipython==7.12.0
+altair
+vega_datasets
+scipy
